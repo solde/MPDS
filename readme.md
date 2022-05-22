@@ -1,7 +1,7 @@
 # YT-MPD - YouTube MPD Music Player
 Music player for GNU systems for Youtube and Youtube Music videos.
 
-Project based on cdown's (mpdmenu)[https://github.com/cdown/mpdmenu].
+Project based on cdown's [mpdmenu](https://github.com/cdown/mpdmenu).
 
 ## Requeriments
 
